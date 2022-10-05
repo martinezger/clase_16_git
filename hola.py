@@ -11,3 +11,6 @@ def dummy():
 
 def nuevo_cambio():
     pass
+
+def otro_cambio():
+    pass
