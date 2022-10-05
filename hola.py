@@ -8,3 +8,6 @@ def saludar():
 
 def dummy():
     pass
+
+def nuevo_cambio():
+    pass
